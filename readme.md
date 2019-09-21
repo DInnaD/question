@@ -17,7 +17,9 @@
 
 {{host}}/api/organization/1?vacancies=1&workers=1
 
-thsi #1:
+### 1:
+
+```json
 {
     "success": true,
     "data": {
@@ -82,10 +84,13 @@ thsi #1:
         ]
     }
 }
+```
 
-**************************
-THIS #2
+---
 
+### 2
+
+```json
 {
     "success": true,
     "data": {
@@ -136,3 +141,4 @@ THIS #2
         ]
     }
 }
+```
