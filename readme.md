@@ -9,6 +9,12 @@
 
 ## About My pour knowledge and trouble: I have this #1 with Postman but I need this #2
 
+*it have to be without  "pivot": {
+                            "user_id": 1,
+                            "vacancy_id": 1) and "api_token": "d5YghnQQzieu4oPIOQz0P1EEhDq2NzgBdp82isNX0sAeI4MRY5VHGB2Qx5OO", and "deleted_at" and  "workers": [] have to locate like  "vacancies": []  but have no as "vacancies": [{"workers": []}]
+                            
+**it have to be "data": { "creator": {}"vacancies": [],"workers": []}
+
 {{host}}/api/organization/1?vacancies=1&workers=1
 
 thsi #1:
